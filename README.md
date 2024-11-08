@@ -130,13 +130,7 @@ When the Election has ended Result option becomes active. It shows all the candi
 
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/final%20result.png)
 
-## Developer <a name='developers'></a>
-* Kamal Yeshodhar Shastry Gattu
 
 
 
-## Links <a name='links'></a>
 
-GitHub:     [G K Y SHASTRY](https://github.com/kysgattu)
-
-Contact me:     <gkyshastry0502@gmail.com>
