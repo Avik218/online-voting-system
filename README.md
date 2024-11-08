@@ -128,9 +128,7 @@ Admin can see the election status live during the process of election.
 ### Show Result <a name='show-result'></a>
 When the Election has ended Result option becomes active. It shows all the candiadates sorted by number of votes. It also shows various statistics regarding the election and the final winner of the election.
 
-![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/final%20result.png)
 
-
-
+I AM AVIK THE GOAT
 
 
